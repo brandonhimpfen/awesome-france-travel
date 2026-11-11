@@ -4,6 +4,8 @@
 
 > A curated list of resources for traveling in France, covering official tourism portals, rail networks, regional guides, cultural itineraries, and remote work resources.
 
+France is a celebrated Western European destination renowned for its fine arts, historic châteaux, diverse wine regions, Alpine peaks, and Mediterranean and Atlantic coasts. This list is intended for cultural travelers, culinary enthusiasts, art historians, and wine-tour visitors.
+
 ## Contents
 
 - [Official & Planning](#official--planning)
